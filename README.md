@@ -1,7 +1,9 @@
-# myntra pipeline 
----
 
-pipeline {
+
+
+```
+pipeline
+{
     agent any
 
     tools {
@@ -95,4 +97,4 @@ pipeline {
     }
 }
 
----
+```
